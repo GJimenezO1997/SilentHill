@@ -1,4 +1,4 @@
 # SilentHill
-Juego basado en la trama de SH usando el motor de juegos UDK.
+Juego basado en la trama de SH usando el motor UDK.
 
 ![Screenshot](cap.png)
